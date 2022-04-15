@@ -23,7 +23,7 @@ O projeto é um To Do List bem simples com dados salvo no Localstorage.
 ### Analise crítica:
 Melhorar as características visuais e implementar novas funcionalidades.
 
-https://todo-list-ac.netlify.app/
+[Demo](https://todo-list-ac.netlify.app/)
 
 ### License/Licença do Projeto
 [MIT License](./LICENSE) ©
